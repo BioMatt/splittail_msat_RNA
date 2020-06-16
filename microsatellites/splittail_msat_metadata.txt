@@ -1,0 +1,728 @@
+Sample	location	region
+SJ054M-01	San Joaquin River	Central Valley
+SJ054M-02	San Joaquin River	Central Valley
+SJ054M-03	San Joaquin River	Central Valley
+SJ054M-04	San Joaquin River	Central Valley
+SJ054M-05	San Joaquin River	Central Valley
+SJ054M-06	San Joaquin River	Central Valley
+SJ054M-07	San Joaquin River	Central Valley
+SJ054M-08	San Joaquin River	Central Valley
+SJ054M-09	San Joaquin River	Central Valley
+SJ054M-10	San Joaquin River	Central Valley
+SJ054M-11	San Joaquin River	Central Valley
+SJ054M-12	San Joaquin River	Central Valley
+SJ054M-13	San Joaquin River	Central Valley
+SJ054M-14	San Joaquin River	Central Valley
+SJ054M-15	San Joaquin River	Central Valley
+SJ054M-16	San Joaquin River	Central Valley
+SJ054M-17	San Joaquin River	Central Valley
+SJ054M-18	San Joaquin River	Central Valley
+SJ054M-19	San Joaquin River	Central Valley
+SJ054M-20	San Joaquin River	Central Valley
+SJ074W-01	San Joaquin River	Central Valley
+SJ074W-02	San Joaquin River	Central Valley
+SJ074W-03	San Joaquin River	Central Valley
+SJ074W-04	San Joaquin River	Central Valley
+SJ074W-05	San Joaquin River	Central Valley
+SJ074W-06	San Joaquin River	Central Valley
+SJ074W-07	San Joaquin River	Central Valley
+SJ074W-08	San Joaquin River	Central Valley
+SJ074W-09	San Joaquin River	Central Valley
+SJ074W-10	San Joaquin River	Central Valley
+SJ074W-11	San Joaquin River	Central Valley
+SJ074W-12	San Joaquin River	Central Valley
+SJ074W-13	San Joaquin River	Central Valley
+SJ074W-14	San Joaquin River	Central Valley
+SJ074W-15	San Joaquin River	Central Valley
+SJ074W-16	San Joaquin River	Central Valley
+SJ074W-17	San Joaquin River	Central Valley
+SJ074W-18	San Joaquin River	Central Valley
+SJ074W-19	San Joaquin River	Central Valley
+SJ074W-20	San Joaquin River	Central Valley
+SJ074W-21	San Joaquin River	Central Valley
+SJ074W-22	San Joaquin River	Central Valley
+SJ074W-23	San Joaquin River	Central Valley
+SJ074W-24	San Joaquin River	Central Valley
+SJ074W-25	San Joaquin River	Central Valley
+SJ074W-26	San Joaquin River	Central Valley
+SJ074W-27	San Joaquin River	Central Valley
+SJ074W-28	San Joaquin River	Central Valley
+SJ074W-29	San Joaquin River	Central Valley
+SJ074W-30	San Joaquin River	Central Valley
+SJ074W-31	San Joaquin River	Central Valley
+SJ074W-32	San Joaquin River	Central Valley
+SJ074W-33	San Joaquin River	Central Valley
+SJ074W-34	San Joaquin River	Central Valley
+SJ074W-35	San Joaquin River	Central Valley
+SJ074W-36	San Joaquin River	Central Valley
+SJ074W-37	San Joaquin River	Central Valley
+SJ074W-38	San Joaquin River	Central Valley
+SJ074W-39	San Joaquin River	Central Valley
+SJ074W-40	San Joaquin River	Central Valley
+SJ074W-41	San Joaquin River	Central Valley
+SJ074W-42	San Joaquin River	Central Valley
+SJ074W-43	San Joaquin River	Central Valley
+SJ051E-01	San Joaquin River	Central Valley
+SJ051E-02	San Joaquin River	Central Valley
+SJ051E-03	San Joaquin River	Central Valley
+SJ051E-04	San Joaquin River	Central Valley
+SJ051E-05	San Joaquin River	Central Valley
+SJ051E-06	San Joaquin River	Central Valley
+SJ051E-07	San Joaquin River	Central Valley
+SJ051E-08	San Joaquin River	Central Valley
+SJ051E-09	San Joaquin River	Central Valley
+SJ051E-10	San Joaquin River	Central Valley
+SJ051E-11	San Joaquin River	Central Valley
+SJ051E-13	San Joaquin River	Central Valley
+SJ051E-14	San Joaquin River	Central Valley
+SJ051E-15	San Joaquin River	Central Valley
+SJ051E-16	San Joaquin River	Central Valley
+SJ051E-17	San Joaquin River	Central Valley
+SJ051E-18	San Joaquin River	Central Valley
+SJ051E-19	San Joaquin River	Central Valley
+SJ051E-20	San Joaquin River	Central Valley
+SJ051E-21	San Joaquin River	Central Valley
+SJ051E-22	San Joaquin River	Central Valley
+SJ051E-23	San Joaquin River	Central Valley
+SJ051E-24	San Joaquin River	Central Valley
+SJ051E-25	San Joaquin River	Central Valley
+SJ051E-26	San Joaquin River	Central Valley
+SJ051E-27	San Joaquin River	Central Valley
+SJ051E-28	San Joaquin River	Central Valley
+SJ051E-29	San Joaquin River	Central Valley
+SJ051E-30	San Joaquin River	Central Valley
+SJ051E-31	San Joaquin River	Central Valley
+SJ051E-32	San Joaquin River	Central Valley
+SJ051E-33	San Joaquin River	Central Valley
+SJ051E-34	San Joaquin River	Central Valley
+SJ051E-35	San Joaquin River	Central Valley
+SJ051E-36	San Joaquin River	Central Valley
+SJ051E-37	San Joaquin River	Central Valley
+SJ051E-38	San Joaquin River	Central Valley
+SJ051E-39	San Joaquin River	Central Valley
+SJ051E-40	San Joaquin River	Central Valley
+SJ051E-41	San Joaquin River	Central Valley
+SJ051E-42	San Joaquin River	Central Valley
+SJ051E-43	San Joaquin River	Central Valley
+SJ051E-44	San Joaquin River	Central Valley
+SJ051E-45	San Joaquin River	Central Valley
+SJ051E-46	San Joaquin River	Central Valley
+SJ051E-47	San Joaquin River	Central Valley
+SJ051E-48	San Joaquin River	Central Valley
+SJ051E-49	San Joaquin River	Central Valley
+SJ051E-50	San Joaquin River	Central Valley
+SJ083W-01	San Joaquin River	Central Valley
+SJ083W-02	San Joaquin River	Central Valley
+SJ083W-03	San Joaquin River	Central Valley
+SJ083W-04	San Joaquin River	Central Valley
+SJ083W-05	San Joaquin River	Central Valley
+SJ083W-06	San Joaquin River	Central Valley
+SJ083W-07	San Joaquin River	Central Valley
+SJ083W-08	San Joaquin River	Central Valley
+SJ083W-09	San Joaquin River	Central Valley
+SJ083W-10	San Joaquin River	Central Valley
+SJ083W-11	San Joaquin River	Central Valley
+SJ083W-12	San Joaquin River	Central Valley
+SJ083W-13	San Joaquin River	Central Valley
+SJ083W-14	San Joaquin River	Central Valley
+SJ083W-15	San Joaquin River	Central Valley
+SJ083W-16	San Joaquin River	Central Valley
+SJ083W-17	San Joaquin River	Central Valley
+SJ083W-19	San Joaquin River	Central Valley
+SJ083W-20	San Joaquin River	Central Valley
+SJ083W-21	San Joaquin River	Central Valley
+SJ083W-22	San Joaquin River	Central Valley
+SJ083W-23	San Joaquin River	Central Valley
+SJ083W-24	San Joaquin River	Central Valley
+SR024E-01	Sacramento River	Central Valley
+SR024E-02	Sacramento River	Central Valley
+SR024E-03	Sacramento River	Central Valley
+SR024E-04	Sacramento River	Central Valley
+SR024E-05	Sacramento River	Central Valley
+SR024E-06	Sacramento River	Central Valley
+SR024E-07	Sacramento River	Central Valley
+SR024E-08	Sacramento River	Central Valley
+SR024E-09	Sacramento River	Central Valley
+SR049E-01	Sacramento River	Central Valley
+SR049E-02	Sacramento River	Central Valley
+SR049E-03	Sacramento River	Central Valley
+SR049E-04	Sacramento River	Central Valley
+SR049E-05	Sacramento River	Central Valley
+SR049E-06	Sacramento River	Central Valley
+SR049E-07	Sacramento River	Central Valley
+SR049E-08	Sacramento River	Central Valley
+SR049E-09	Sacramento River	Central Valley
+SR049E-10	Sacramento River	Central Valley
+SR049E-11	Sacramento River	Central Valley
+SR049E-12	Sacramento River	Central Valley
+SR049E-13	Sacramento River	Central Valley
+SR049E-14	Sacramento River	Central Valley
+SR049E-15	Sacramento River	Central Valley
+SR049E-16	Sacramento River	Central Valley
+SR049E-17	Sacramento River	Central Valley
+SR049E-18	Sacramento River	Central Valley
+SR049E-19	Sacramento River	Central Valley
+SR049E-20	Sacramento River	Central Valley
+SR080E-01	Sacramento River	Central Valley
+SR080E-02	Sacramento River	Central Valley
+SR071E-01	Sacramento River	Central Valley
+SR071E-02	Sacramento River	Central Valley
+SR071E-03	Sacramento River	Central Valley
+SR071E-04	Sacramento River	Central Valley
+SR071E-05	Sacramento River	Central Valley
+SR071E-06	Sacramento River	Central Valley
+SR071E-07	Sacramento River	Central Valley
+SR071E-08	Sacramento River	Central Valley
+SR071E-09	Sacramento River	Central Valley
+SR071E-10	Sacramento River	Central Valley
+SR071E-11	Sacramento River	Central Valley
+SR071E-12	Sacramento River	Central Valley
+SR071E-13	Sacramento River	Central Valley
+SR071E-14	Sacramento River	Central Valley
+SR071E-15	Sacramento River	Central Valley
+SR071E-16	Sacramento River	Central Valley
+SR130E-01	Sacramento River	Central Valley
+SR130E-02	Sacramento River	Central Valley
+SR130E-03	Sacramento River	Central Valley
+SR130E-04	Sacramento River	Central Valley
+SR130E-05	Sacramento River	Central Valley
+SR130E-06	Sacramento River	Central Valley
+SR130E-07	Sacramento River	Central Valley
+SR130E-08	Sacramento River	Central Valley
+SR130E-09	Sacramento River	Central Valley
+SR130E-10	Sacramento River	Central Valley
+SR130E-11	Sacramento River	Central Valley
+SR130E-12	Sacramento River	Central Valley
+SR130E-13	Sacramento River	Central Valley
+SR130E-14	Sacramento River	Central Valley
+SR130E-15	Sacramento River	Central Valley
+SR130E-16	Sacramento River	Central Valley
+SR130E-17	Sacramento River	Central Valley
+SR130E-18	Sacramento River	Central Valley
+SR130E-19	Sacramento River	Central Valley
+SR130E-20	Sacramento River	Central Valley
+SR130E-21	Sacramento River	Central Valley
+SR130E-22	Sacramento River	Central Valley
+SR130E-23	Sacramento River	Central Valley
+SR130E-24	Sacramento River	Central Valley
+SR130E-25	Sacramento River	Central Valley
+SR130E-26	Sacramento River	Central Valley
+SR017E-01	Sacramento River	Central Valley
+SR017E-02	Sacramento River	Central Valley
+SR017E-03	Sacramento River	Central Valley
+SR017E-04	Sacramento River	Central Valley
+SR017E-05	Sacramento River	Central Valley
+SR017E-06	Sacramento River	Central Valley
+SR017E-07	Sacramento River	Central Valley
+SR017E-08	Sacramento River	Central Valley
+SR017E-09	Sacramento River	Central Valley
+SR014W-01	Sacramento River	Central Valley
+SR014W-02	Sacramento River	Central Valley
+SR014W-03	Sacramento River	Central Valley
+SR014W-04	Sacramento River	Central Valley
+SR014W-05	Sacramento River	Central Valley
+SR014W-06	Sacramento River	Central Valley
+SR014W-07	Sacramento River	Central Valley
+SR024E-02-01	Sacramento River	Central Valley
+SR024E-02-02	Sacramento River	Central Valley
+SR024E-02-03	Sacramento River	Central Valley
+SR024E-02-04	Sacramento River	Central Valley
+SR024E-02-05	Sacramento River	Central Valley
+SR024E-02-06	Sacramento River	Central Valley
+SR024E-02-07	Sacramento River	Central Valley
+SR024E-02-08	Sacramento River	Central Valley
+SR024E-02-09	Sacramento River	Central Valley
+SR024E-02-10	Sacramento River	Central Valley
+SR024E-02-11	Sacramento River	Central Valley
+SR024E-02-12	Sacramento River	Central Valley
+SR024E-02-13	Sacramento River	Central Valley
+SR024E-02-16	Sacramento River	Central Valley
+SR043W-01	Sacramento River	Central Valley
+SR043W-02	Sacramento River	Central Valley
+SR043W-03	Sacramento River	Central Valley
+SR043W-04	Sacramento River	Central Valley
+SR043W-05	Sacramento River	Central Valley
+SR043W-06	Sacramento River	Central Valley
+SR043W-07	Sacramento River	Central Valley
+SR043W-08	Sacramento River	Central Valley
+SR043W-09	Sacramento River	Central Valley
+SR071E-01_b	Sacramento River	Central Valley
+SR071E-02_b	Sacramento River	Central Valley
+SR071E-03_b	Sacramento River	Central Valley
+SR071E-04_b	Sacramento River	Central Valley
+SR071E-05_b	Sacramento River	Central Valley
+SR043W-02-01	Sacramento River	Central Valley
+SR043W-02-02	Sacramento River	Central Valley
+SR043W-02-03	Sacramento River	Central Valley
+SR043W-02-04	Sacramento River	Central Valley
+SR043W-02-05	Sacramento River	Central Valley
+SR043W-02-06	Sacramento River	Central Valley
+SR043W-02-07	Sacramento River	Central Valley
+SR043W-02-08	Sacramento River	Central Valley
+SR043W-02-09	Sacramento River	Central Valley
+SR144W-01	Sacramento River	Central Valley
+SR144W-02	Sacramento River	Central Valley
+LI001E-01	Liberty Island	Central Valley
+LI001E-02	Liberty Island	Central Valley
+LI001E-03	Liberty Island	Central Valley
+LI001E-04	Liberty Island	Central Valley
+LI001E-05	Liberty Island	Central Valley
+LI001E-06	Liberty Island	Central Valley
+LI001E-07	Liberty Island	Central Valley
+LI001E-08	Liberty Island	Central Valley
+LI001E-09	Liberty Island	Central Valley
+LI001E-10	Liberty Island	Central Valley
+LI001E-11	Liberty Island	Central Valley
+LI001E-12	Liberty Island	Central Valley
+LI001E-13	Liberty Island	Central Valley
+LI001E-14	Liberty Island	Central Valley
+LI001E-15	Liberty Island	Central Valley
+LI001E-16	Liberty Island	Central Valley
+LI001E-17	Liberty Island	Central Valley
+LI001E-18	Liberty Island	Central Valley
+LI001E-19	Liberty Island	Central Valley
+LI001E-20	Liberty Island	Central Valley
+LI001E-21	Liberty Island	Central Valley
+LI001E-22	Liberty Island	Central Valley
+LI001E-23	Liberty Island	Central Valley
+LI001E-24	Liberty Island	Central Valley
+LI001E-25	Liberty Island	Central Valley
+LI001E-26	Liberty Island	Central Valley
+LI001E-27	Liberty Island	Central Valley
+LI001E-28	Liberty Island	Central Valley
+LI001E-29	Liberty Island	Central Valley
+LI001E-30	Liberty Island	Central Valley
+LI001E-31	Liberty Island	Central Valley
+LI001E-32	Liberty Island	Central Valley
+LI001E-33	Liberty Island	Central Valley
+LI001E-34	Liberty Island	Central Valley
+LI001E-35	Liberty Island	Central Valley
+LI001E-36	Liberty Island	Central Valley
+LI001E-37	Liberty Island	Central Valley
+LI001E-38	Liberty Island	Central Valley
+LI001E-39	Liberty Island	Central Valley
+LI001E-40	Liberty Island	Central Valley
+LI001E-41	Liberty Island	Central Valley
+LI001E-42	Liberty Island	Central Valley
+LI001E-43	Liberty Island	Central Valley
+LI001E-44	Liberty Island	Central Valley
+LI001E-45	Liberty Island	Central Valley
+LI001E-46	Liberty Island	Central Valley
+LI001E-47	Liberty Island	Central Valley
+LI001E-48	Liberty Island	Central Valley
+LI001E-49	Liberty Island	Central Valley
+PET2011-01	Petaluma River	San Pablo Bay
+PET2011-02	Petaluma River	San Pablo Bay
+PET2011-03	Petaluma River	San Pablo Bay
+PET2011-04	Petaluma River	San Pablo Bay
+PET2011-05	Petaluma River	San Pablo Bay
+PET2011-06	Petaluma River	San Pablo Bay
+PET2011-07	Petaluma River	San Pablo Bay
+PET2011-08	Petaluma River	San Pablo Bay
+PET2011-09	Petaluma River	San Pablo Bay
+PET2011-10	Petaluma River	San Pablo Bay
+PET2011-11	Petaluma River	San Pablo Bay
+PET2011-12	Petaluma River	San Pablo Bay
+PET2011-13	Petaluma River	San Pablo Bay
+PET2011-14	Petaluma River	San Pablo Bay
+PET2011-15	Petaluma River	San Pablo Bay
+PET2011-16	Petaluma River	San Pablo Bay
+PET2011-17	Petaluma River	San Pablo Bay
+PET2011-18	Petaluma River	San Pablo Bay
+PET2011-19	Petaluma River	San Pablo Bay
+PET2011-20	Petaluma River	San Pablo Bay
+PET2011-21	Petaluma River	San Pablo Bay
+PET2011-22	Petaluma River	San Pablo Bay
+PET2011-23	Petaluma River	San Pablo Bay
+PET2011-24	Petaluma River	San Pablo Bay
+PET2011-25	Petaluma River	San Pablo Bay
+PET2011-26	Petaluma River	San Pablo Bay
+PET2011-27	Petaluma River	San Pablo Bay
+PET2011-28	Petaluma River	San Pablo Bay
+PET2011-29	Petaluma River	San Pablo Bay
+PET2011-30	Petaluma River	San Pablo Bay
+PET2011-31	Petaluma River	San Pablo Bay
+PET2011-32	Petaluma River	San Pablo Bay
+PET2011-33	Petaluma River	San Pablo Bay
+PET2011-34	Petaluma River	San Pablo Bay
+PET2011-35	Petaluma River	San Pablo Bay
+PET2011-36	Petaluma River	San Pablo Bay
+PET2011-37	Petaluma River	San Pablo Bay
+PET2011-38	Petaluma River	San Pablo Bay
+PET2011-39	Petaluma River	San Pablo Bay
+PET2011-40	Petaluma River	San Pablo Bay
+PET2011-41	Petaluma River	San Pablo Bay
+PET2011-42	Petaluma River	San Pablo Bay
+PET2011-43	Petaluma River	San Pablo Bay
+PET2011-44	Petaluma River	San Pablo Bay
+PET2011-45	Petaluma River	San Pablo Bay
+PET2011-46	Petaluma River	San Pablo Bay
+PET2011-47	Petaluma River	San Pablo Bay
+PET2011-48	Petaluma River	San Pablo Bay
+PET2011-49	Petaluma River	San Pablo Bay
+PET2011-50	Petaluma River	San Pablo Bay
+PET2011-51	Petaluma River	San Pablo Bay
+PET2011-52	Petaluma River	San Pablo Bay
+PET2011-53	Petaluma River	San Pablo Bay
+PET2011-54	Petaluma River	San Pablo Bay
+PET2011-55	Petaluma River	San Pablo Bay
+PET2011-56	Petaluma River	San Pablo Bay
+PET2011-57	Petaluma River	San Pablo Bay
+PET2011-58	Petaluma River	San Pablo Bay
+PET2011-59	Petaluma River	San Pablo Bay
+PET2011-60	Petaluma River	San Pablo Bay
+PET2011-61	Petaluma River	San Pablo Bay
+PET2011-62	Petaluma River	San Pablo Bay
+PET2011-63	Petaluma River	San Pablo Bay
+PET2011-64	Petaluma River	San Pablo Bay
+PET2011-65	Petaluma River	San Pablo Bay
+PET2011-66	Petaluma River	San Pablo Bay
+PET2011-67	Petaluma River	San Pablo Bay
+PET2011-68	Petaluma River	San Pablo Bay
+PET2011-69	Petaluma River	San Pablo Bay
+PET2011-70	Petaluma River	San Pablo Bay
+PET2011-71	Petaluma River	San Pablo Bay
+PET2011-72	Petaluma River	San Pablo Bay
+PET2011-73	Petaluma River	San Pablo Bay
+PET2011-74	Petaluma River	San Pablo Bay
+PET2011-75	Petaluma River	San Pablo Bay
+PET2011-76	Petaluma River	San Pablo Bay
+PET2011-77	Petaluma River	San Pablo Bay
+PET2011-78	Petaluma River	San Pablo Bay
+PET2011-79	Petaluma River	San Pablo Bay
+PET2011-80	Petaluma River	San Pablo Bay
+PET2011-81	Petaluma River	San Pablo Bay
+PET2011-82	Petaluma River	San Pablo Bay
+PET2011-83	Petaluma River	San Pablo Bay
+PET2011-84	Petaluma River	San Pablo Bay
+PET2011-85	Petaluma River	San Pablo Bay
+PET2011-86	Petaluma River	San Pablo Bay
+PET2011-87	Petaluma River	San Pablo Bay
+PET2011-88	Petaluma River	San Pablo Bay
+PET2011-89	Petaluma River	San Pablo Bay
+PET2011-90	Petaluma River	San Pablo Bay
+PET2011-91	Petaluma River	San Pablo Bay
+PET2011-92	Petaluma River	San Pablo Bay
+PET2011-93	Petaluma River	San Pablo Bay
+PET2011-94	Petaluma River	San Pablo Bay
+PET2011-95	Petaluma River	San Pablo Bay
+PET2011-96	Petaluma River	San Pablo Bay
+PET2011-97	Petaluma River	San Pablo Bay
+PET2011-98	Petaluma River	San Pablo Bay
+PET2011-99	Petaluma River	San Pablo Bay
+PET2011-100	Petaluma River	San Pablo Bay
+PET2011-101	Petaluma River	San Pablo Bay
+PET2011-102	Petaluma River	San Pablo Bay
+PET2011-103	Petaluma River	San Pablo Bay
+PET2011-104	Petaluma River	San Pablo Bay
+PET2011-105	Petaluma River	San Pablo Bay
+PET2011-106	Petaluma River	San Pablo Bay
+PET2011-107	Petaluma River	San Pablo Bay
+PET2011-108	Petaluma River	San Pablo Bay
+PET2011-109	Petaluma River	San Pablo Bay
+PET2011-110	Petaluma River	San Pablo Bay
+PET2011-111	Petaluma River	San Pablo Bay
+PET2011-112	Petaluma River	San Pablo Bay
+PET2011-113	Petaluma River	San Pablo Bay
+PET2011-114	Petaluma River	San Pablo Bay
+PET2011-115	Petaluma River	San Pablo Bay
+PET2011-116	Petaluma River	San Pablo Bay
+PET2011-117	Petaluma River	San Pablo Bay
+PET2011-118	Petaluma River	San Pablo Bay
+PET2011-119	Petaluma River	San Pablo Bay
+PET2011-120	Petaluma River	San Pablo Bay
+PET2011-121	Petaluma River	San Pablo Bay
+PET2011-122	Petaluma River	San Pablo Bay
+PET2011-123	Petaluma River	San Pablo Bay
+PET2011-124	Petaluma River	San Pablo Bay
+PET2011-125	Petaluma River	San Pablo Bay
+PET2011-126	Petaluma River	San Pablo Bay
+PET2011-127	Petaluma River	San Pablo Bay
+PET2011-128	Petaluma River	San Pablo Bay
+PET2011-129	Petaluma River	San Pablo Bay
+PET2011-130	Petaluma River	San Pablo Bay
+PET2011-131	Petaluma River	San Pablo Bay
+PET2011-132	Petaluma River	San Pablo Bay
+PET2011-133	Petaluma River	San Pablo Bay
+PET2011-134	Petaluma River	San Pablo Bay
+PET2011-135	Petaluma River	San Pablo Bay
+PET2011-136	Petaluma River	San Pablo Bay
+PET2011-137	Petaluma River	San Pablo Bay
+PET2011-138	Petaluma River	San Pablo Bay
+PET2011-139	Petaluma River	San Pablo Bay
+PET2011-140	Petaluma River	San Pablo Bay
+PET2011-141	Petaluma River	San Pablo Bay
+PET2011-142	Petaluma River	San Pablo Bay
+PET2011-143	Petaluma River	San Pablo Bay
+PET2011-144	Petaluma River	San Pablo Bay
+PET2011-145	Petaluma River	San Pablo Bay
+PET2011-146	Petaluma River	San Pablo Bay
+PET2011-147	Petaluma River	San Pablo Bay
+PET2011-148	Petaluma River	San Pablo Bay
+PET2011-149	Petaluma River	San Pablo Bay
+PET2011-150	Petaluma River	San Pablo Bay
+PET2011-151	Petaluma River	San Pablo Bay
+PET2011-152	Petaluma River	San Pablo Bay
+PET2011-153	Petaluma River	San Pablo Bay
+PET2011-154	Petaluma River	San Pablo Bay
+PET2011-155	Petaluma River	San Pablo Bay
+PET2011-156	Petaluma River	San Pablo Bay
+PET2011-157	Petaluma River	San Pablo Bay
+PET2011-158	Petaluma River	San Pablo Bay
+PET2011-159	Petaluma River	San Pablo Bay
+PET2011-160	Petaluma River	San Pablo Bay
+PET2011-161	Petaluma River	San Pablo Bay
+PET2011-162	Petaluma River	San Pablo Bay
+PET2011-163	Petaluma River	San Pablo Bay
+PET2011-164	Petaluma River	San Pablo Bay
+PET2011-165	Petaluma River	San Pablo Bay
+PET2011-166	Petaluma River	San Pablo Bay
+PET2011-167	Petaluma River	San Pablo Bay
+PET2011-168	Petaluma River	San Pablo Bay
+PET2011-169	Petaluma River	San Pablo Bay
+PET2011-170	Petaluma River	San Pablo Bay
+PET2011-171	Petaluma River	San Pablo Bay
+PET2011-172	Petaluma River	San Pablo Bay
+PET2011-173	Petaluma River	San Pablo Bay
+PET2011-174	Petaluma River	San Pablo Bay
+PET2011-175	Petaluma River	San Pablo Bay
+PET2011-176	Petaluma River	San Pablo Bay
+PET2011-177	Petaluma River	San Pablo Bay
+PET2011-178	Petaluma River	San Pablo Bay
+PET2011-179	Petaluma River	San Pablo Bay
+PET2011-180	Petaluma River	San Pablo Bay
+PET2011-181	Petaluma River	San Pablo Bay
+PET2011-182	Petaluma River	San Pablo Bay
+PET2011-183	Petaluma River	San Pablo Bay
+PET2011-184	Petaluma River	San Pablo Bay
+PET2011-185	Petaluma River	San Pablo Bay
+PET2011-186	Petaluma River	San Pablo Bay
+PET2011-187	Petaluma River	San Pablo Bay
+PET2011-188	Petaluma River	San Pablo Bay
+PET2011-189	Petaluma River	San Pablo Bay
+PET2011-190	Petaluma River	San Pablo Bay
+PET2011-191	Petaluma River	San Pablo Bay
+PET2011-192	Petaluma River	San Pablo Bay
+PET2011-193	Petaluma River	San Pablo Bay
+PET2011-194	Petaluma River	San Pablo Bay
+PET2011-195	Petaluma River	San Pablo Bay
+PET2011-196	Petaluma River	San Pablo Bay
+PET2011-197	Petaluma River	San Pablo Bay
+PET2011-198	Petaluma River	San Pablo Bay
+PET2011-199	Petaluma River	San Pablo Bay
+PET2011-200	Petaluma River	San Pablo Bay
+PET2011-201	Petaluma River	San Pablo Bay
+PET2011-202	Petaluma River	San Pablo Bay
+PET2011-203	Petaluma River	San Pablo Bay
+PET2011-204	Petaluma River	San Pablo Bay
+PET2011-205	Petaluma River	San Pablo Bay
+PET2011-206	Petaluma River	San Pablo Bay
+PET2011-207	Petaluma River	San Pablo Bay
+PET2011-208	Petaluma River	San Pablo Bay
+PET2011-209	Petaluma River	San Pablo Bay
+PET2011-210	Petaluma River	San Pablo Bay
+PET2011-211	Petaluma River	San Pablo Bay
+PET2011-212	Petaluma River	San Pablo Bay
+PET2011-213	Petaluma River	San Pablo Bay
+PET2011-214	Petaluma River	San Pablo Bay
+PET2011-215	Petaluma River	San Pablo Bay
+PET2011-216	Petaluma River	San Pablo Bay
+PET2011-217	Petaluma River	San Pablo Bay
+PET2011-218	Petaluma River	San Pablo Bay
+PET2011-219	Petaluma River	San Pablo Bay
+PET2011-220	Petaluma River	San Pablo Bay
+PET2011-221	Petaluma River	San Pablo Bay
+PET2011-222	Petaluma River	San Pablo Bay
+PET2011-223	Petaluma River	San Pablo Bay
+PET2011-224	Petaluma River	San Pablo Bay
+PET2011-225	Petaluma River	San Pablo Bay
+PET2011-226	Petaluma River	San Pablo Bay
+PET2011-227	Petaluma River	San Pablo Bay
+PET2011-228	Petaluma River	San Pablo Bay
+PET2011-229	Petaluma River	San Pablo Bay
+PET2011-230	Petaluma River	San Pablo Bay
+PET2011-231	Petaluma River	San Pablo Bay
+PET2011-232	Petaluma River	San Pablo Bay
+PET2011-234	Petaluma River	San Pablo Bay
+PET2011-235	Petaluma River	San Pablo Bay
+PET2011-236	Petaluma River	San Pablo Bay
+PET2011-237	Petaluma River	San Pablo Bay
+PET2011-238	Petaluma River	San Pablo Bay
+PET2011-239	Petaluma River	San Pablo Bay
+PET2011-240	Petaluma River	San Pablo Bay
+PET2011-241	Petaluma River	San Pablo Bay
+PET2011-242	Petaluma River	San Pablo Bay
+PET2011-243	Petaluma River	San Pablo Bay
+PET2011-244	Petaluma River	San Pablo Bay
+PET2011-245	Petaluma River	San Pablo Bay
+PET2011-246	Petaluma River	San Pablo Bay
+PET2011-247	Petaluma River	San Pablo Bay
+PET2011-248	Petaluma River	San Pablo Bay
+PET2011-249	Petaluma River	San Pablo Bay
+PET2011-250	Petaluma River	San Pablo Bay
+PET2011-251	Petaluma River	San Pablo Bay
+PET2011-252	Petaluma River	San Pablo Bay
+PET2011-253	Petaluma River	San Pablo Bay
+PET2011-254	Petaluma River	San Pablo Bay
+PET2011-255	Petaluma River	San Pablo Bay
+PET2011-256	Petaluma River	San Pablo Bay
+PET2011-257	Petaluma River	San Pablo Bay
+PET2011-258	Petaluma River	San Pablo Bay
+PET2011-259	Petaluma River	San Pablo Bay
+PET2011-260	Petaluma River	San Pablo Bay
+PET2011-261	Petaluma River	San Pablo Bay
+PET2011-262	Petaluma River	San Pablo Bay
+PET2011-263	Petaluma River	San Pablo Bay
+PET2011-264	Petaluma River	San Pablo Bay
+PET2011-265	Petaluma River	San Pablo Bay
+PET2011-266	Petaluma River	San Pablo Bay
+PET2011-267	Petaluma River	San Pablo Bay
+PET2011-268	Petaluma River	San Pablo Bay
+PET2011-269	Petaluma River	San Pablo Bay
+PET2011-270	Petaluma River	San Pablo Bay
+PET2011-271	Petaluma River	San Pablo Bay
+NAPA2011-01	Napa River	San Pablo Bay
+NAPA2011-02	Napa River	San Pablo Bay
+NAPA2011-03	Napa River	San Pablo Bay
+NAPA2011-05	Napa River	San Pablo Bay
+NAPA2011-06	Napa River	San Pablo Bay
+NAPA2011-07	Napa River	San Pablo Bay
+NAPA2011-08	Napa River	San Pablo Bay
+NAPA2011-09	Napa River	San Pablo Bay
+NAPA2011-10	Napa River	San Pablo Bay
+NAPA2011-11	Napa River	San Pablo Bay
+NAPA2011-12	Napa River	San Pablo Bay
+NAPA2011-13	Napa River	San Pablo Bay
+NAPA2011-14	Napa River	San Pablo Bay
+NAPA2011-15	Napa River	San Pablo Bay
+NAPA2011-16	Napa River	San Pablo Bay
+NAPA2011-17	Napa River	San Pablo Bay
+NAPA2011-18	Napa River	San Pablo Bay
+NAPA2011-19	Napa River	San Pablo Bay
+NAPA2011-20	Napa River	San Pablo Bay
+NAPA2011-21	Napa River	San Pablo Bay
+NAPA2011-23	Napa River	San Pablo Bay
+NAPA2011-24	Napa River	San Pablo Bay
+NAPA2011-25	Napa River	San Pablo Bay
+NAPA2011-26	Napa River	San Pablo Bay
+NAPA2011-27	Napa River	San Pablo Bay
+NAPA2011-28	Napa River	San Pablo Bay
+NAPA2011-29	Napa River	San Pablo Bay
+NAPA2011-30	Napa River	San Pablo Bay
+NAPA2011-31	Napa River	San Pablo Bay
+NAPA2011-32	Napa River	San Pablo Bay
+NAPA2011-33	Napa River	San Pablo Bay
+NAPA2011-34	Napa River	San Pablo Bay
+NAPA2011-35	Napa River	San Pablo Bay
+NAPA2011-36	Napa River	San Pablo Bay
+NAPA2011-37	Napa River	San Pablo Bay
+NAPA2011-38	Napa River	San Pablo Bay
+NAPA2011-40	Napa River	San Pablo Bay
+NAPA2011-41	Napa River	San Pablo Bay
+NAPA2011-42	Napa River	San Pablo Bay
+NAPA2011-43	Napa River	San Pablo Bay
+NAPA2011-44	Napa River	San Pablo Bay
+NAPA2011-45	Napa River	San Pablo Bay
+NAPA2011-46	Napa River	San Pablo Bay
+NAPA2011-47	Napa River	San Pablo Bay
+NAPA2011-48	Napa River	San Pablo Bay
+NAPA2011-49	Napa River	San Pablo Bay
+NAPA2011-50	Napa River	San Pablo Bay
+NAPA2011-51	Napa River	San Pablo Bay
+NAPA2011-52	Napa River	San Pablo Bay
+NAPA2011-53	Napa River	San Pablo Bay
+NAPA2011-54	Napa River	San Pablo Bay
+NAPA2011-55	Napa River	San Pablo Bay
+NAPA2011-57	Napa River	San Pablo Bay
+NAPA2011-58	Napa River	San Pablo Bay
+NAPA2011-59	Napa River	San Pablo Bay
+NAPA2011-60	Napa River	San Pablo Bay
+NAPA2011-61	Napa River	San Pablo Bay
+NAPA2011-62	Napa River	San Pablo Bay
+NAPA2011-63	Napa River	San Pablo Bay
+NAPA2011-64	Napa River	San Pablo Bay
+NAPA2011-65	Napa River	San Pablo Bay
+NAPA2011-66	Napa River	San Pablo Bay
+NAPA2011-67	Napa River	San Pablo Bay
+NAPA2011-68	Napa River	San Pablo Bay
+NAPA2011-69	Napa River	San Pablo Bay
+NAPA2011-71	Napa River	San Pablo Bay
+NAPA2011-72	Napa River	San Pablo Bay
+NAPA2011-73	Napa River	San Pablo Bay
+NAPA2011-74	Napa River	San Pablo Bay
+NAPA2011-75	Napa River	San Pablo Bay
+NAPA2011-76	Napa River	San Pablo Bay
+NAPA2011-77	Napa River	San Pablo Bay
+NAPA2011-78	Napa River	San Pablo Bay
+LO-PET2011-01	Petaluma River	San Pablo Bay
+LO-PET2011-02	Petaluma River	San Pablo Bay
+LO-PET2011-03	Petaluma River	San Pablo Bay
+LO-PET2011-04	Petaluma River	San Pablo Bay
+LO-PET2011-05	Petaluma River	San Pablo Bay
+LO-PET2011-06	Petaluma River	San Pablo Bay
+LO-PET2011-07	Petaluma River	San Pablo Bay
+LO-PET2011-08	Petaluma River	San Pablo Bay
+LO-PET2011-09	Petaluma River	San Pablo Bay
+LO-PET2011-10	Petaluma River	San Pablo Bay
+LO-PET2011-11	Petaluma River	San Pablo Bay
+LO-PET2011-12	Petaluma River	San Pablo Bay
+LO-PET2011-13	Petaluma River	San Pablo Bay
+LO-PET2011-14	Petaluma River	San Pablo Bay
+LO-PET2011-15	Petaluma River	San Pablo Bay
+LO-PET2011-16	Petaluma River	San Pablo Bay
+LO-PET2011-17	Petaluma River	San Pablo Bay
+LO-PET2011-18	Petaluma River	San Pablo Bay
+LO-PET2011-19	Petaluma River	San Pablo Bay
+LO-PET2011-20	Petaluma River	San Pablo Bay
+LO-PET2011-21	Petaluma River	San Pablo Bay
+LO-PET2011-22	Petaluma River	San Pablo Bay
+LO-PET2011-23	Petaluma River	San Pablo Bay
+LO-NAPA2011-01	Napa River	San Pablo Bay
+LO-NAPA2011-02	Napa River	San Pablo Bay
+LO-NAPA2011-03	Napa River	San Pablo Bay
+LO-NAPA2011-04	Napa River	San Pablo Bay
+LO-NAPA2011-05	Napa River	San Pablo Bay
+LO-NAPA2011-06	Napa River	San Pablo Bay
+LO-NAPA2011-07	Napa River	San Pablo Bay
+LO-NAPA2011-08	Napa River	San Pablo Bay
+LO-NAPA2011-09	Napa River	San Pablo Bay
+LO-NAPA2011-10	Napa River	San Pablo Bay
+LO-NAPA2011-11	Napa River	San Pablo Bay
+LO-NAPA2011-12	Napa River	San Pablo Bay
+LO-NAPA2011-13	Napa River	San Pablo Bay
+LO-NAPA2011-14	Napa River	San Pablo Bay
+LO-NAPA2011-15	Napa River	San Pablo Bay
+LO-NAPA2011-16	Napa River	San Pablo Bay
+LO-NAPA2011-17	Napa River	San Pablo Bay
+LO-NAPA2011-18	Napa River	San Pablo Bay
+NAPA2012-01	Napa River	San Pablo Bay
+NAPA2012-02	Napa River	San Pablo Bay
+NAPA2012-03	Napa River	San Pablo Bay
+NAPA2012-04	Napa River	San Pablo Bay
+NAPA2012-05	Napa River	San Pablo Bay
+NAPA2012-06	Napa River	San Pablo Bay
+NAPA2012-07	Napa River	San Pablo Bay
+NAPA2012-08	Napa River	San Pablo Bay
+NAPA2012-09	Napa River	San Pablo Bay
+NAPA2012-10	Napa River	San Pablo Bay
+NAPA2012-11	Napa River	San Pablo Bay
+NAPA2012-12	Napa River	San Pablo Bay
+NAPA2012-13	Napa River	San Pablo Bay
+NAPA2012-15	Napa River	San Pablo Bay
+NAPA2012-16	Napa River	San Pablo Bay
+NAPA2012-17	Napa River	San Pablo Bay
+NAPA2012-18	Napa River	San Pablo Bay
+NAPA2012-19	Napa River	San Pablo Bay
+NAPA2012-20	Napa River	San Pablo Bay
+NAPA2012-21	Napa River	San Pablo Bay
+NAPA2012-22	Napa River	San Pablo Bay
+NAPA2012-23	Napa River	San Pablo Bay
+NAPA2012-24	Napa River	San Pablo Bay
+NAPA2012-25	Napa River	San Pablo Bay
+NAPA2012-26	Napa River	San Pablo Bay
+NAPA2012-27	Napa River	San Pablo Bay
+NAPA2012-28	Napa River	San Pablo Bay
+NAPA2012-29	Napa River	San Pablo Bay
+SP001W-01	San Pablo Bay	San Pablo Bay
+SP001W-02	San Pablo Bay	San Pablo Bay
+SP001W-03	San Pablo Bay	San Pablo Bay
